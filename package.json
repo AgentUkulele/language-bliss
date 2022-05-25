@@ -1,17 +1,22 @@
 {
   "name": "language-bliss",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "bliss language support in Atom",
   "engines": {
     "atom": "*"
   },
-  "dependencies": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/AgentUkulele/language-bliss.git"
+    "url": "git+https://github.com/AgentUkulele/language-bliss.git"
   },
   "bugs": {
     "url": "https://github.com/AgentUkulele/language-bliss/issues"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://github.com/AgentUkulele/language-bliss#readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AgentUkulele"
 }
