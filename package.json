@@ -13,10 +13,4 @@
     "url": "https://github.com/AgentUkulele/language-bliss/issues"
   },
   "license": "MIT",
-  "homepage": "https://github.com/AgentUkulele/language-bliss#readme",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "AgentUkulele"
 }
