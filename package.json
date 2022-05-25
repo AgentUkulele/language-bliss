@@ -1,5 +1,5 @@
 {
-  "name": "language-bliss",
+  "name": "bliss",
   "version": "0.1.0",
   "description": "bliss language support in Atom",
   "engines": {
