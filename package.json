@@ -7,7 +7,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AgentUkulele/language-bliss.git"
+    "url": "https://github.com/AgentUkulele/language-bliss.git"
   },
   "bugs": {
     "url": "https://github.com/AgentUkulele/language-bliss/issues"
